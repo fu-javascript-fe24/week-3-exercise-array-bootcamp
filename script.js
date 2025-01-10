@@ -197,22 +197,22 @@ console.log('Uppgift 29');
 
 
 /* 30 */
-/* I person-arrayen längst ner i dokumentet, sortera objekten efter ålder, äldst först. */
+/* I person-arrayen ovan, sortera objekten efter ålder, äldst först. */
 console.log('Uppgift 30');
 
 
 /* 31 */
-/* I person-arrayen längst ner i dokumentet, sortera objekten i bokstavsordning efter deras namn */
+/* I person-arrayen ovan, sortera objekten i bokstavsordning efter deras namn */
 console.log('Uppgift 31');
 
 
 /* 32 */
-/* I person-arrayen längst ner i dokumentet, gör om alla namn till versaler. */
+/* I person-arrayen ovan, gör om alla namn till versaler. */
 console.log('Uppgift 32');
 
 
 /* 33 */
-/* I person-arrayen längst ner i dokumentet, spegelvänd alla namn. */
+/* I person-arrayen ovan, spegelvänd alla namn. */
 console.log('Uppgift 33');
 
 
